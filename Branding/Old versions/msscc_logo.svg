@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 662 681" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1.43898,-12.1377)">
+        <g transform="matrix(2.21495,0,0,1.85521,-407.692,-452.036)">
+            <text x="230.859px" y="528.836px" style="font-family:'Gotham-Bold', 'Gotham';font-weight:700;font-size:96px;">SCC</text>
+        </g>
+        <g transform="matrix(1.41743,0,0,1.41743,-229.791,-150.49)">
+            <text x="237.229px" y="289.123px" style="font-family:'GothamCondensed-Bold', 'GothamCondensed';font-weight:700;font-stretch:condensed;font-size:144px;">M<tspan x="312.973px 376.045px 439.837px 493.117px " y="289.123px 289.123px 289.123px 289.123px ">AKER</tspan></text>
+        </g>
+        <g transform="matrix(1.33237,0,0,1.31861,-208.337,-170.281)">
+            <text x="234.818px" y="413.745px" style="font-family:'Gotham-Book', 'Gotham';font-weight:300;font-size:96px;">SPACE</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-122.6,-23.29)">
+        <path d="M154.294,620.834L154.294,163.981C154.294,104.677 216.129,31.79 288.21,31.79L748.106,31.79L748.106,465.274C748.106,540.112 701.333,621.239 611.537,621.239L432,621.239L353.484,699.755L274.423,620.694C274.423,620.694 154.294,621.91 154.294,620.834Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+    </g>
+</svg>

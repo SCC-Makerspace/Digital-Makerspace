@@ -1,0 +1,35 @@
+@charset "utf-8";
+	.NormalCharacterStyle
+{
+	font-family : Gotham;
+	font-size : 38px;
+	letter-spacing : 0.38px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle1
+{
+	font-family : Gotham;
+	font-weight : bold;
+	font-size : 54px;
+	letter-spacing : 0.54px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle2
+{
+	font-family : Gotham;
+	font-size : 38px;
+	letter-spacing : 0.3px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle3
+{
+	font-family : Gotham Condensed;
+	font-weight : bold;
+	font-size : 62px;
+	letter-spacing : 2.48px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
